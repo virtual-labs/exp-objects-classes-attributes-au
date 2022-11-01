@@ -2,35 +2,86 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "While using encapsulation, which among the following is possible?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Code modification can be additional overhead",
+        "b": "Data member's data type can be changed without changing any other code",
+        "c": "Data member's type can't be changed, or whole code have to be changed",
+        "d": "Member functions can be used to change the data type of data members"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "A passenger has to board a flight at 7:00 am to Kolkata.(Identify the Noun-Phrase from the given use case)",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Passenger",
+        "b": "Flight",        
+        "c": "Both a and b",
+        "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The major elements of object model are:",
+      "answers": {
+        "a": "Class, Object, Method, Interface",
+        "b": "Class, Property, Inheritance, Hierarchy",
+        "c": "Encapsulation, Hierarchy, Abstraction, Modularity",
+        "d": "Abstraction, Class, Polymorphism, Method"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which feature of OOP indicates code reusability",
+      "answers": {
+        "a": "Abstraction",
+        "b": "Polymorphism",
+        "c": "Encapsulation",
+        "d": "Inheritance"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The bank-manager has approved the loan for the customer. (Identify the Conceptual class from the given use case)",
+      "answers": {
+        "a": "Bank-manager",
+        "b": "Customer",
+        "c": "Both a and b",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
