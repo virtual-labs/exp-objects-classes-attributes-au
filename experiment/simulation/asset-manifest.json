@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.f73bd124.css",
-    "main.js": "./static/js/main.a2b4bc99.js",
+    "main.css": "./static/css/main.580de6ce.css",
+    "main.js": "./static/js/main.b93ca120.js",
     "static/media/car.jpg": "./static/media/car.480a8920c9f38b25b314.jpg",
     "static/media/customer.png": "./static/media/customer.3c3122488f65625a61d6.png",
     "static/media/clerk.png": "./static/media/clerk.9f0eceb5df85fadb8c66.png",
     "index.html": "./index.html",
-    "main.f73bd124.css.map": "./static/css/main.f73bd124.css.map",
-    "main.a2b4bc99.js.map": "./static/js/main.a2b4bc99.js.map"
+    "main.580de6ce.css.map": "./static/css/main.580de6ce.css.map",
+    "main.b93ca120.js.map": "./static/js/main.b93ca120.js.map"
   },
   "entrypoints": [
-    "static/css/main.f73bd124.css",
-    "static/js/main.a2b4bc99.js"
+    "static/css/main.580de6ce.css",
+    "static/js/main.b93ca120.js"
   ]
 }
