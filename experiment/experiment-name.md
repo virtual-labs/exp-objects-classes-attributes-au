@@ -1,1 +1,1 @@
-## Identify Classes ,Attributes and Object Interactions.
+## Analyze the problem to identify the objects, classes and its attributes.
