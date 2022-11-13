@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "While using encapsulation, which among the following is possible?",
+      "question": "The technique  to extract conceptual classes from our use case texts is called ",
       "answers": {
-        "a": "Code modification can be additional overhead",
-        "b": "Data member's data type can be changed without changing any other code",
-        "c": "Data member's type can't be changed, or whole code have to be changed",
-        "d": "Member functions can be used to change the data type of data members"
+        "a": "object model",
+        "b": "noun extraction",
+        "c": "uml",
+        "d": "usecase"
       },
       "explanations": {
         "a": "",
