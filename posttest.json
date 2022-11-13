@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The technique  to extract conceptual classes from our use case texts is called ",
+      "answers": {
+        "a": "object model",
+        "b": "noun extraction",
+        "c": "uml",
+        "d": "usecase"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A passenger has to board a flight at 7:00 am to Kolkata.(Identify the Noun-Phrase from the given use case)",
+      "answers": {
+        "a": "Passenger",
+        "b": "Flight",        
+        "c": "Both a and b",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The major elements of object model are:",
+      "answers": {
+        "a": "Class, Object, Method, Interface",
+        "b": "Class, Property, Inheritance, Hierarchy",
+        "c": "Encapsulation, Hierarchy, Abstraction, Modularity",
+        "d": "Abstraction, Class, Polymorphism, Method"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which feature of OOP indicates code reusability",
+      "answers": {
+        "a": "Abstraction",
+        "b": "Polymorphism",
+        "c": "Encapsulation",
+        "d": "Inheritance"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The bank-manager has approved the loan for the customer. (Identify the Conceptual class from the given use case)",
+      "answers": {
+        "a": "Bank-manager",
+        "b": "Customer",
+        "c": "Both a and b",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
