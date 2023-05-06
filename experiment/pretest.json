@@ -2,38 +2,43 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1.Which of the following are properties of a good use case? (Identify all that apply.)",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "a.Starts with a request from the system to an actor.",
+        "b": "b.Ends with the system producing all answers the actor asked for.",
+        "c": "c.Ends with the system producing all answers the actor asked for.",
+        "d": "d.Describes the internal activities the system must take to produce all the answers the actor asked for."
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b, c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2.Which of the following is not a step while creating a domain model?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "a.Identifying conceptual classes",
+        "b": "b.Adding associations between classes",
+        "c": "c.Adding attributes to the classes",
+        "d": "d.Identifying the condition and the determining the flow"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
       "difficulty": "beginner"
-    }
+    },
+    {
+        "question": "3.A faculty is responsible for setting the question paper for an exam. Students attend the exam and the teaching assistant corrects their paper. There are also a few reviewers who attend the exam along with the students to judge the quality of the test. Identify the primary actor(s) in this process.",
+        "answers": {
+          "a": "a.Faculty",
+          "b": "b.Students",
+          "c": "c.Teaching assistant",
+          "d": "d.Reviewers"
+        },
+        "explanations": {
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      }
   ]
 }
