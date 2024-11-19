@@ -1,0 +1,44 @@
+{
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "1.Consider your watch as a system and set the time 2 minutes ahead in “SetTime” mode. Identify the suitable precondition(s) for the use case document design.",
+        "answers": {
+          "a": "a.The watch is showing current time.",
+          "b": "b.The watch should be working.",
+          "c": "c.The Watch is switched to set mode.",
+          "d": "d.All of the other options"
+        },
+        "explanations": {
+        },
+        "correctAnswer": "a, b",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "2.Which of the following statements is true about identifying objects and classes in a software system?",
+        "answers": {
+          "a": "a.An object represents an instance of a class, which defines a set of properties and methods that all instances of the class share.",
+          "b": "b.A class represents an instance of an object, which defines a set of properties and methods that can be customized for each instance of the class.",
+          "c": "c.An object is a blueprint that defines the properties and methods of a set of instances, while a class represents a specific instance of that blueprint.",
+          "d": "d.A class and an object are the same thing, and the terms can be used interchangeably."
+        },
+        "explanations": {
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "3.Which actors are involved in the 'Release a Vehicle' use case for the car rental application?",
+        "answers": {
+          "a": "a.Only the Office Executive",
+          "b": "b.Only the Customer",
+          "c": "c.Both the Office Executive and the Customer",
+          "d": "d.None of the above"
+        },
+        "explanations": {
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      }
+    ]
+  }

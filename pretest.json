@@ -1,0 +1,44 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.Which of the following are properties of a good use case? (Identify all that apply.)",
+      "answers": {
+        "a": "a.Starts with a request from the system to an actor.",
+        "b": "b.Ends with the system producing all answers the actor asked for.",
+        "c": "c.Ends with the system producing all answers the actor asked for.",
+        "d": "d.Describes the internal activities the system must take to produce all the answers the actor asked for."
+      },
+      "explanations": {
+      },
+      "correctAnswer": "b, c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2.Which of the following is not a step while creating a domain model?",
+      "answers": {
+        "a": "a.Identifying conceptual classes",
+        "b": "b.Adding associations between classes",
+        "c": "c.Adding attributes to the classes",
+        "d": "d.Identifying the condition and the determining the flow"
+      },
+      "explanations": {
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+        "question": "3.A faculty is responsible for setting the question paper for an exam. Students attend the exam and the teaching assistant corrects their paper. There are also a few reviewers who attend the exam along with the students to judge the quality of the test. Identify the primary actor(s) in this process.",
+        "answers": {
+          "a": "a.Faculty",
+          "b": "b.Students",
+          "c": "c.Teaching assistant",
+          "d": "d.Reviewers"
+        },
+        "explanations": {
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      }
+  ]
+}
