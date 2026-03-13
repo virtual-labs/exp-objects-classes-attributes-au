@@ -1,4 +1,4 @@
-## Overall Learning Flow
+#### Overall Learning Flow
 
 The simulation proceeds in this order:
 
@@ -11,9 +11,9 @@ The simulation proceeds in this order:
 7. Step 4: View the object model or class diagram
 8. Completion page
 
-## How to Use the Simulation
+#### How to Use the Simulation
 
-### Stage 1: Introduction Screen
+##### Stage 1: Introduction Screen
 
 What you will see:
 - A short description of the car rental scenario
@@ -25,7 +25,7 @@ What you should do:
 - Watch the scenario video
 - Click `Next` to continue
 
-### Stage 2: Scenario Animation
+##### Stage 2: Scenario Animation
 
 What you will see:
 - Another short animation related to the scenario
@@ -37,7 +37,7 @@ What you should do:
 - Understand what is happening in the scenario
 - Click `Next`
 
-### Stage 3: Step 1 - Identifying the Correct Sequence of Actions
+##### Stage 3: Step 1 - Identifying the Correct Sequence of Actions
 
 What you will see:
 - Several action statements shown as draggable cards
@@ -59,7 +59,7 @@ What happens after validation:
 Learning goal:
 - Understand the scenario as a process before converting it into object-oriented concepts
 
-### Stage 4: Animation Before Noun Phrase Identification
+##### Stage 4: Animation Before Noun Phrase Identification
 
 What you will see:
 - A short animation introducing noun phrases
@@ -70,7 +70,7 @@ What you should do:
 - Prepare to identify important nouns from the scenario
 - Click `Next`
 
-### Stage 5: Step 2 - Identifying Noun Phrases
+##### Stage 5: Step 2 - Identifying Noun Phrases
 
 What you will see:
 - Sentences from the scenario
@@ -93,7 +93,7 @@ What happens after each validation:
 Learning goal:
 - Recognize noun phrases that can later become candidate classes or attributes in object-oriented analysis
 
-### Stage 6: Step 3 - Identifying Conceptual Classes and Attributes
+##### Stage 6: Step 3 - Identifying Conceptual Classes and Attributes
 
 What you will see:
 - Draggable labels such as class names and attribute names
@@ -121,7 +121,7 @@ Learning goal:
 - Understand the difference between a class and its attributes
 - Learn how real-world nouns map into conceptual object models
 
-### Stage 7: Step 4 - Understanding the Object Model
+##### Stage 7: Step 4 - Understanding the Object Model
 
 What you will see:
 - A final object model or class diagram image
@@ -135,7 +135,7 @@ What you should do:
 Learning goal:
 - Connect the earlier activities to the final object-oriented representation
 
-### Stage 8: Completion Page
+##### Stage 8: Completion Page
 
 What you will see:
 - A completion message
@@ -143,7 +143,7 @@ What you will see:
 What it means:
 - You have completed the simulation successfully
 
-## Common Mistakes to Avoid
+#### Common Mistakes to Avoid
 
 - Selecting verbs instead of noun phrases
 - Choosing too many words when only specific phrases are needed
@@ -151,7 +151,7 @@ What it means:
 - Ignoring the order of actions in the scenario
 - Clicking `Next` before checking whether all required boxes are filled
 
-## Learning Outcome
+#### Learning Outcome
 
 By completing this simulation, you should be able to:
 
