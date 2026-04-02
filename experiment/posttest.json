@@ -39,6 +39,32 @@
         },
         "correctAnswer": "c",
         "difficulty": "beginner"
+      },
+      {
+        "question": "4.Which of the following is an example of a pre-condition for a use case?",
+        "answers": {
+          "a": "The user has successfully logged in.",
+          "b": "The system has saved the data.",
+          "c": "The transaction has been recorded.",
+          "d": "The output is displayed."
+        },
+        "explanations": {
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "5.What is the best way to describe a scenario in a use case?",
+        "answers": {
+          "a": "A detailed description of the system's internal workings.",
+          "b": "A specific sequence of steps that fulfills a use case. ",
+          "c": "A list of all possible actors that might interact with the system.",
+          "d": "A high-level overview of the system's functionality."
+        },
+        "explanations": {
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
       }
     ]
   }
