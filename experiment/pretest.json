@@ -40,6 +40,32 @@
         },
         "correctAnswer": "a",
         "difficulty": "beginner"
+      },
+    {
+        "question": "4.Which of the following is NOT a typical element of a use case description?",
+        "answers": {
+          "a": "Use case name",
+          "b": "Pre-conditions",
+          "c": "Post-conditions",
+          "d": "Source code implementation"
+        },
+        "explanations": {
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
+      },
+    {
+        "question": "5.What is the primary goal of using use cases?",
+        "answers": {
+          "a": "To define the technical specifications of the system.",
+          "b": "To ensure that the system meets the needs of its users.",
+          "c": "To optimize the system's performance.",
+          "d": "To reduce the cost of system development."
+        },
+        "explanations": {
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
       }
   ]
 }
